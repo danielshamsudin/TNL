@@ -8,3 +8,7 @@
 - Activate the virtual environment, `source env/Script/activate`
 - Install the dependencies, `pip install -r requirements.txt`
 - Run the application, `streamlit run main.py`
+
+-------------------------------
+## TODO
+- Add pretrained model
