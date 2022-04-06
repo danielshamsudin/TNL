@@ -7,4 +7,4 @@
 - Create a virtual environment, `python3 -m venv env`
 - Activate the virtual environment, `source env/Script/activate`
 - Install the dependencies, `pip install -r requirements.txt`
-- Run the application, `streamlit run main.py`
+- Run the application, `streamlit run main.py`        
