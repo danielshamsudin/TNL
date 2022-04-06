@@ -119,9 +119,9 @@ thinc==8.0.15
 tokenizers==0.11.6
 toml==0.10.2
 toolz==0.11.2
-torch==1.11.0+cpu
-torchaudio==0.11.0+cpu
-torchvision==0.12.0+cpu
+torch==1.11.0
+torchaudio==0.11.0
+torchvision==0.12.0
 tornado==6.1
 tqdm==4.63.1
 traitlets==5.1.1
@@ -137,7 +137,7 @@ watchdog==2.1.7
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.6.0
-wordcloud==1.8.1.post9+g35ce9b7
+wordcloud==1.8.1
 xxhash==3.0.0
 yarl==1.7.2
 zipp==3.7.0
